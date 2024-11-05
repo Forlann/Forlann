@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Data Science<br>🎯 Goals: ...<br>🎲 I love: Music, Games, High Fantasy</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Data Science, Data Engineering<br>🎯 Goals: Especilize in the data universe<br>🎲 I love: Music, Games, High Fantasy</p>
 
 ###
 
